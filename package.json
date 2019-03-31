@@ -2,7 +2,7 @@
   "name": "auth-admin",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://auth-service.platform.2immerse.eu",
+  "homepage": ".",
   "dependencies": {
     "admin-on-rest": "^1.2.2",
     "react": "^15.6.2",
